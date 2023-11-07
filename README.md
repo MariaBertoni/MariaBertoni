@@ -51,3 +51,5 @@ Meu nome é Maria Eduarda, tenho 16 anos, e estou cursando atualmente em desenvo
   <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+![Snake animation](https://github.com/MariaBertoni/MariaBertoni/blob/output/github-contribution-grid-snake.svg)
+
