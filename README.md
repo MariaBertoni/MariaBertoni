@@ -53,5 +53,5 @@ Meu nome é Maria Eduarda, tenho 16 anos, e estou cursando atualmente em desenvo
 
 ----
 
-![Snake animation](https://github.com/MariaBertoni/Maria-Bertoni/blob/output/github-contribution-grid-snake.svg)
+
 
