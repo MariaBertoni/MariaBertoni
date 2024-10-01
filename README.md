@@ -5,8 +5,7 @@
 Meu nome é Maria Eduarda, tenho 16 anos, e estou cursando atualmente em desenvolvimento de Sistemas, sou mais chegado a parte de Back-End.
 
 - 💻 Tenho focado em python, e estou me envolvendo cada vez mais nesse meio.
-- 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas ½.
-- 👥 Gosto de conversar sobre Tecnologias.
+- 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas.
 
 ----
 
@@ -18,7 +17,6 @@ Meu nome é Maria Eduarda, tenho 16 anos, e estou cursando atualmente em desenvo
   <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img height="30em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   
 </div>
 </br>
