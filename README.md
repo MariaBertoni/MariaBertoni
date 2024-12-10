@@ -2,10 +2,9 @@
 
 ----
 
-Meu nome é Maria Eduarda, tenho 16 anos, e estou cursando atualmente em desenvolvimento de Sistemas, sou mais chegado a parte de Back-End.
+Meu nome é Maria Eduarda, tenho 18 anos, e sou formada em desenvolvimento de Sistemas pelo SENAI.
 
 - 💻 Tenho focado em python, e estou me envolvendo cada vez mais nesse meio.
-- 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas.
 
 ----
 
